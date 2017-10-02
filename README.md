@@ -1,2 +1,3 @@
-# Analisador-L-xico
-Analisador léxico Compiladores
+# Analisador Léxico
+Analisador léxico Compiladores.
+Utilizando Java e Jflex
